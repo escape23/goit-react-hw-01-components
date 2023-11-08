@@ -1,0 +1,50 @@
+.title {
+    margin-top: 50px;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  
+  .transaction_history {
+    padding: 15px;
+    width: 80vw;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20vh;
+    box-shadow: inset 0px 0px 15px -8px rgb(113, 83, 113);
+  }
+  
+  .table_head {
+    /* outline: 1px solid tomato; */
+    text-transform: uppercase;
+    letter-spacing: 0.4rem;
+    background-color: #000000;
+    color: white;
+    padding: 10px;
+  }
+  
+  .data {
+    font-size: 20px;
+    padding: 12px;
+  }
+  
+  .type {
+    font-weight: 700;
+    color: rgba(39, 19, 59, 0.8);
+    padding: 8px;
+    border-bottom: 2px solid rgba(39, 19, 59, 0.2);
+    /* border: 1px solid rgba(39, 19, 59, 0.5); */
+  }
+  
+  .amount {
+    font-weight: 700;
+    color: rgba(39, 19, 59, 0.8);
+    border-bottom: 2px solid rgba(39, 19, 59, 0.2);
+  }
+  
+  .currency {
+    font-weight: 900;
+    font-size: 16px;
+    color: #000000;
+    letter-spacing: 0.1rem;
+    border-bottom: 2px solid rgba(39, 19, 59, 0.2);
+  }
